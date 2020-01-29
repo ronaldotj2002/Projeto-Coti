@@ -39,7 +39,7 @@
 
 <==================================> # <==================================>
 
-# MDB (Material Design Bootastrap) - Angular
+# MDB (Material Design Bootstrap) - Angular
     npm i npm-registry-client
     ng add angular-bootstrap-md
 
