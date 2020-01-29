@@ -1,0 +1,44 @@
+{
+    "produto":[
+        {
+            "id": "1",
+            "nome": "Cadeira Gamer",
+            "valor": "700",
+            "descricao": "Cadeira Gamer Legends Preta e Vermelha",
+            "categoria": "Cadeira",
+            "imagem": "https://staticmobly.akamaized.net/p/Mobly-Cadeira-Gamer-Legends-Preta-e-Vermelha-8078-858274-1-zoom.jpg"
+        },
+        {
+            "id": "2",
+            "nome": "Sofá Retrátil",
+            "valor": "900",
+            "descricao": "Sofá 4 Lugares Linoforte Versalhes com Assento Retrátil e Encosto Reclinável em Tecido Suede",
+            "categoria": "Móveis",
+            "imagem": "https://www.casasbahia-imagens.com.br/Moveis/SaladeEstar/Sofas/9095796/456895589/sofa-4-lugares-linoforte-versalhes-com-assento-retratil-e-encosto-reclinavel-em-tecido-suede-9095759.jpg"
+        },
+        {
+            "id": "3",
+            "nome": "Ventilador de teto",
+            "valor": "130",
+            "descricao": "Ventilador Fenix Branco 3 Pas Dupla Face Inj/Bran Cv3 127V Premium Ventisol",
+            "categoria": "Eletrodoméstico",
+            "imagem": "https://images-americanas.b2w.io/produtos/01/00/offers/01/00/item/123919/8/123919826_1GG.jpg"
+        },
+        {
+            "id": "4",
+            "nome": "Geladeira Consul",
+            "valor": "2349",
+            "descricao": "Geladeira Consul Frost Free Duplex 405 litros cor Inox com Filtro Bem Estar - 110V",
+            "categoria": "Eletrodoméstico",
+            "imagem": "https://consul.vteximg.com.br/arquivos/ids/188781-1000-1000/Geladeira_Consul_CRM51AK_Imagem_Frontal_Nova.jpg"
+        },
+        {
+            "id": "5",
+            "nome": "Ar Condicionado",
+            "valor": "1300",
+            "descricao": "Ar Condicionado Split Springer Midea 12000 Btus Frio 220v",
+            "categoria": "Eletro",
+            "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/1441038/2/1441038258_1GG.jpg"
+        }
+    ]
+}
