@@ -1,1 +1,4 @@
-<p>detalheproduto works!</p>
+<div *ngIf="recebeProduto && recebeProduto.id!=0">
+    <h3>{{ recebeProduto.nome }}</h3>
+    <img src="{{ recebeProduto.imagem }}" width="150" height="150" />
+</div>
